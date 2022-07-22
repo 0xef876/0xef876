@@ -4,7 +4,8 @@
 **KittyPark/KittyPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a img alt="c++" src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
