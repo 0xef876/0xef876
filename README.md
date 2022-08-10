@@ -1,24 +1,13 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center"> Techs that I've used at least once </p>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=green"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/mariaDB-333664?style=flat-square&logo=mariaDB&logoColor=white"/></a>&nbsp 
-</p>
-
-<br>  
-
-
-<h3 align="center">  Me  </h3>
-<p align="center">
-  <a href="mailto:tjdwns9574@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdwns9574@gmail.com"/></a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-99999?style=flat-square&logo=CSS3&logoColor=blue"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=green"/></a>&nbsp 
 </p>
