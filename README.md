@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-ffb13b?style=flat-square&logo=javascript&logoColor=green"/></a>&nbsp 
   <br>
   <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/KittyPark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=KittyPark&show_icons=true&theme=radical" />
