@@ -26,7 +26,7 @@
 <a href="https://github.com/KittyPark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
 <br>
 <br>
-      ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
+      ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
       ![Solved.ac Strick](http://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
 </div>
 
