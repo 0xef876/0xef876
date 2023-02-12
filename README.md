@@ -33,7 +33,7 @@
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)](https://solved.ac/tjdwns9574/)
-    
+     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&hide=html,scss,css,shell,Ruby&layout=compact&theme=dracula)](https://github.com/KittyPark)
 
 </div>
