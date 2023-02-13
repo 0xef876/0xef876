@@ -27,7 +27,7 @@
 <br>
 <br>
       ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
-      ![Solved.ac Strick](http://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
+      ![Solved.ac Strick](https://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
 </div>
 
 <br>
