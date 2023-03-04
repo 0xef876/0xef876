@@ -33,7 +33,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KittyPark&show_icons=true&theme=radical" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&hide=html,scss,css,shell,Ruby&layout=compact&theme=dracula"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>
 </div>
 
 
