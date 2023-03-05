@@ -21,15 +21,19 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <br>
     <br>
-    
+    <br>
+    <a href = "https://toss.me/kittyjun" align ="center"><img src="https://user-images.githubusercontent.com/71093890/222954271-f3520ca6-c4f8-4920-b233-8921a8908a08.jpg"></a>
+    <br>
+    <br>
 <a href="https://www.buymeacoffee.com/kittyparkgW"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kittyparkgW&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
   <br>
 <br>
 <a href="https://github.com/KittyPark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
 <br>
 <br>
-      ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
-      ![Solved.ac Strick](https://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
+    
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
+![Solved.ac Strick](https://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
 </div>
 
 <br>
