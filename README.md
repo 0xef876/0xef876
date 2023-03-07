@@ -38,8 +38,11 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KittyPark&show_icons=true&theme=radical" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>
+  <br>
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=KittyPark&show_icons=true&hide=contribs,prs,issues&theme=radical" />
+
 </div>
 
 
