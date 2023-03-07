@@ -140,5 +140,5 @@
 신한투자증권에서 vue.js 를 이용하여 간단한 ToDoList를 firebase와 연동하여 구현.
 <br>
 [link](https://todolist-88a4e.web.app/)
-
+ 
 기술스택 : vue.js , firebase
