@@ -22,7 +22,9 @@
   <br>
     <br>
     <br>
-    <a href = "https://toss.me/kittyjun" align ="center"><img src="https://user-images.githubusercontent.com/71093890/222954271-f3520ca6-c4f8-4920-b233-8921a8908a08.jpg"></a>
+    <a href = "https://toss.me/kittyjun" align ="center">
+        <img src="https://user-images.githubusercontent.com/71093890/224223357-8c0b7032-3a4c-484c-9593-fd2f7e2557a6.png">
+    </a>
     <br>
     <br>
 <a href="https://www.buymeacoffee.com/kittyparkgW"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kittyparkgW&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
