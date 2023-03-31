@@ -21,19 +21,11 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src = "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
-    <br>
-    <br>
-    <br>
-    <a href = "https://toss.me/kittyjun" align ="center">
-        <img src="https://user-images.githubusercontent.com/71093890/224223357-8c0b7032-3a4c-484c-9593-fd2f7e2557a6.png">
-    </a>
-    <br>
-    <br>
-<a href="https://www.buymeacoffee.com/kittyparkgW"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kittyparkgW&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-  <br>
-<br>
-<a href="https://github.com/KittyPark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
-<br>
+    
+---
+    
+    
+
 <br>
     
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
@@ -43,13 +35,18 @@
 <br>
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>
-  <br>
-  <br>
     <img src="https://github-readme-stats.vercel.app/api?username=KittyPark&show_icons=true&hide=contribs,prs,issues&theme=radical" />
 
 </div>
-
-
+<br>
+<div align = "center">
+    <a href="https://github.com/KittyPark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
+  <br>
+  <br>
+    <a href="https://www.buymeacoffee.com/kittyparkgW"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kittyparkgW&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<br>
+</div>
+<br>
 
 ---
 
@@ -151,3 +148,9 @@
 [link](https://todolist-88a4e.web.app/)
  
 기술스택 : vue.js , firebase
+
+---
+
+<a href = "https://toss.me/kittyjun" align ="center">
+    <img src="https://user-images.githubusercontent.com/71093890/224223357-8c0b7032-3a4c-484c-9593-fd2f7e2557a6.png">
+</a>
