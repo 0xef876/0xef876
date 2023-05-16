@@ -37,7 +37,7 @@
 
 <br>
 <div>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>   
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=10&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>   
     <br>
     <br>
 <a href="https://github.com/KittyPark"><img style ="width:140px; height:30px"src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
