@@ -26,23 +26,20 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
-    
+    </div>
     
 <br>
-    
-
-
 <br>
-    <br>
-    
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
-![Solved.ac Strick](https://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
- <img style ="height:170px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>
-   
+<div>
+<img src = "https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574"/>
+<img src = "https://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold"/>
 </div>
 
 <br>
 <div>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>   
+    <br>
+    <br>
 <a href="https://github.com/KittyPark"><img style ="width:140px; height:30px"src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
 <br>
     <br>
