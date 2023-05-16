@@ -1,6 +1,6 @@
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+## 🛠 Tech Stack 🛠
 <br>
-<div align=center> 
+<div> 
     <img src="https://img.shields.io/badge/github-AAAAAA?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -27,33 +27,29 @@
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
     
----
     
+<br>
     
 
+
 <br>
+    <br>
     
 ![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tjdwns9574)
 ![Solved.ac Strick](https://mazandi.herokuapp.com/api?handle=tjdwns9574&theme=cold)
+ <img style ="height:170px;" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>
+   
 </div>
 
 <br>
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KittyPark&langs_count=8&hide=html,scss,css,shell,markdown,Ruby&layout=compact&theme=dracula"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=KittyPark&show_icons=true&hide=contribs,prs,issues&theme=radical" />
-
-</div>
+<div>
+<a href="https://github.com/KittyPark"><img style ="width:140px; height:30px"src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
 <br>
-<div align = "center">
-    <a href="https://github.com/KittyPark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23EA57F1&title_bg=%23BF1E1E&icon=adblock.svg&icon_color=%23F2DFDF&title=hits&edge_flat=false"/></a>
-  <br>
-  <br>
+    <br>
     <a href="https://www.buymeacoffee.com/kittyparkgW"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kittyparkgW&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <br>
 </div>
-<br>
 
----
 
 <br>
 
