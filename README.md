@@ -4,6 +4,6 @@
 
 
 
-<a href = "https://toss.me/kittyjun" align ="center">
+<a href = "https://toss.me/0xef876" align ="center">
     <img src="https://user-images.githubusercontent.com/71093890/224223357-8c0b7032-3a4c-484c-9593-fd2f7e2557a6.png">
 </a>
