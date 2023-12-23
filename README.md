@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23CC76FF&title_bg=%23FF6E6E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/KittyPark)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKittyPark&count_bg=%23CC76FF&title_bg=%23FF6E6E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/0xef876)
 
 <a href="https://www.buymeacoffee.com/0xef876"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kittyparkgW&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
 
